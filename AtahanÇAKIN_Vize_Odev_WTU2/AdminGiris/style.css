@@ -1,0 +1,189 @@
+.sablon
+ {
+   width:920px;
+   height:auto; 
+   margin:30px auto
+ }
+
+.banner
+ { 
+   width:920px;
+   height:100px; 
+   float:left; 
+   text-align:center; 
+   background:url('../Admin/logo.jpg')
+}
+
+.menu
+ { 
+   width:920px; 
+   height:47px;
+   float:left;
+   margin:10px 0 0 0;
+   border-radius:10px;
+   background:grey
+ }
+
+.menu ul
+ { margin:0;
+   paddig:0;
+   list-style:none
+ }
+
+.menu ul li
+ { 
+   float:left 
+ }
+
+.menu ul li a
+ { 
+   display:block;
+   width:160px;
+   height:32px;
+   text-decoration:none;
+   text-align:center;
+   font:13px tahoma;
+   padding:15px 0 0 0
+ }
+
+.menu ul li a:hover
+ { 
+   text-decoration:underline;
+   background:darkgrey
+ }
+
+.orta1
+ { 
+   width:920px;
+   height:100px; 
+   float:left;
+   margin:10px 0 10px 0;
+   background:yellow
+ }
+
+.orta2
+ {
+   width:300px;
+   height:300px;
+   float:left
+ }
+
+.orta3
+ {
+   width:300px;
+   height:300px;
+   float:left;
+   margin:0 0 0 10px
+ }
+
+.orta4
+ {
+   width:300px;
+   height:300px;
+   float:left;
+   margin:0 0 0 10px
+ }
+
+.orta5
+ {
+   width:250px;
+   height:300px;
+   float:left;
+   margin:10px 0 0 0
+ }
+
+.orta6
+ {
+   width:400px;
+   height:450px;
+   float:inherit;
+   margin:10px 0 0 10px;
+   background:lightblue
+ }
+
+.orta7
+ {
+   width:250px;
+   height:300px;
+   float:left;
+   margin:10px 0 0 10px
+ }
+
+.orta8
+ {
+   width:300px;
+   height:390px;
+   float:left;
+   margin:10px 0 0 0;
+   background:white
+ }
+
+.orta9
+ {
+   width:300px;
+   height:390px;
+   float:left;
+   margin:10px 0 0 10px;
+   background:white
+ }
+
+.orta10
+ {
+   width:300px;
+   height:390px;
+   float:left;
+   margin:10px 0 0 10px;
+   background:white
+ }
+
+.orta11
+ {
+   width:300px;
+   height:390px;
+   float:left;
+   margin:10px 0 0 310px;
+   background:white
+ }
+
+.form
+ {
+   width:600px;
+   height:auto;
+   float:left;
+   margin:10px 0 0 150px;
+   background:lightyellow
+ }
+
+h1
+ {
+   font-family: Times New Roman;
+   text-align:center;
+   color:red
+ }
+
+h2
+ {
+   font-family: Helvetica;
+   text-align:center;
+   color:purple
+ }
+
+h3
+ {
+   font-family: verdana;
+   text-align:center;
+   color:orange;
+
+ }
+
+p
+ {
+   font-family: courier
+ }
+
+body
+ {
+   background-image:url('../Admin/zemin.jpg');
+   background-repeat:no-repeat;
+   background-size:cover;
+ }
